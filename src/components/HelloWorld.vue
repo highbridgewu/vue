@@ -69,7 +69,7 @@ h3 {
 ul {
   padding: 0;
   text-align: initial;
-  max-width: 65%;
+  max-width: 56%;
   margin: 20px auto;
 }
 li {
