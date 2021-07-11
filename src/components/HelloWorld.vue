@@ -68,6 +68,7 @@ h3 {
 }
 ul {
   padding: 0;
+  text-align: initial;
 }
 li {
   margin: 0 10px;
