@@ -14,10 +14,16 @@
     <h3>PUBLICATIONS</h3>
     <ul>
       <li>Gaoqiao W, Minghua Z, Rui Z, et al. Ultimate bearing capacity of strip footings on Hoek-Brown rock slopes using adaptive finite element limit analysis. Rock Mechanics and Rock Engineering, 2021.</li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li>Gaoqiao W, Heng Z, Minghua Z. Undrained stability analysis of strip footings lying on circular voids with spatially random soil. Computers and Geotechnics, 2021, 133:104072.</li>
+      <li>Gaoqiao W, Heng Z, Minghua Z, et al. Stochastic analysis of dual tunnels in spatially random soil. Computers and Geotechnics, 2021, 129:103861.</li>
+      <li>Gaoqiao W, Minghua Z, Rui Z, et al. Ultimate bearing capacity of eccentrically loaded strip footings above voids in rock masses. Computers and Geotechnics, 2020, 128:103819.</li>
+      <li>Gaoqiao W, Minghua Z, Heng Z, et al. Undrained seismic bearing capacity of strip footings lying on two-layered slopes. Computers and Geotechnic, 2020, 122:103539.</li>
+      <li>Gaoqiao W, Rui Z, Minghua Z, et al. Undrained stability analysis of eccentrically loaded strip footing lying on layered slope by finite element limit analysis. Computers and Geotechnics, 2020, 123:103600.</li>
+      <li>Gaoqiao W, Minghua Z, Heng Z. Undrained seismic bearing capacity of strip footings horizontally embedded in two-layered slopes. Earthquake Spectra, 2020, 37:2.</li>
+      <li>Gaoqiao W, Minghua Z, Heng Z, et al. Effect of eccentric load on the undrained bearing capacity of strip footings above voids. International Journal of Geomechanics-ASCE, 2020, 7:04020078.</li>
+      <li>Rui Z, Gaoqiao W, Minghua Z, et al. Undrained seismic stability of dual unsupported circular tunnels subjected to surcharge loading. International Journal of Structural Stability and Dynamics, 2021, 21(2):2171001.</li>
+      <li>Yao X, Minghua Z, Rui Z, et al. Stability of dual square tunnels in rock masses subjected to surcharge loading. Tunnelling and Underground Space Technology, 2019, 103037.</li>
+      <li>Yao X, Minghua Z, Rui Z, et al. Undrained bearing capacity of strip footings placed adjacent to two-layered slopes. International Journal of Geomechanics-ASCE, 2019, 0001480.</li>
     </ul>
     <h3>SKILLS AND EXPERTISE</h3>
     <ul>
