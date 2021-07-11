@@ -13,7 +13,7 @@
     </ul>
     <h3>PUBLICATIONS</h3>
     <ul>
-      <li>Gaoqiao W, Minghua Z, Rui Z, et al. Ultimate bearing capacity of strip footings on Hoek-Brown rock slopes using adaptive finite element limit analysis. Rock Mechanics and Rock Engineering, 2021.</li>
+      <li>Gaoqiao W, Minghua Z, Rui Z, et al. Ultimate bearing capacity of strip footings on Hoek-Brown rock slopes using adaptive finite element limit analysis. Rock Mechanics and Rock Engineering, 2021, (54)4.</li>
       <li>Gaoqiao W, Heng Z, Minghua Z. Undrained stability analysis of strip footings lying on circular voids with spatially random soil. Computers and Geotechnics, 2021, 133:104072.</li>
       <li>Gaoqiao W, Heng Z, Minghua Z, et al. Stochastic analysis of dual tunnels in spatially random soil. Computers and Geotechnics, 2021, 129:103861.</li>
       <li>Gaoqiao W, Minghua Z, Rui Z, et al. Ultimate bearing capacity of eccentrically loaded strip footings above voids in rock masses. Computers and Geotechnics, 2020, 128:103819.</li>
