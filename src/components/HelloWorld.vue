@@ -69,9 +69,12 @@ h3 {
 ul {
   padding: 0;
   text-align: initial;
+  max-width: 65%;
+  margin: 20px auto;
 }
 li {
   margin: 0 10px;
+  padding-bottom: 3px;
 }
 a {
   color: #42b983;
